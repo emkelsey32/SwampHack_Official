@@ -1,7 +1,7 @@
 # SwampHack_Official
 
 Title: Gator Chomp 
-Authors: Emily Kelsey, Grace Nemanic, Victoria Mei, Mackenzie Fileman 
+Authors: Emily Kelsey, Grace Nemanic, Victoria Mei
 Start date: 2/1/2020 
 Platform: Android App using Android Studio 
 Tags: barcode scanning, Google Vision, android, food/produce, Google-database 
