@@ -14,7 +14,7 @@ import android.widget.TextView;
 import com.google.android.gms.vision.Frame;
 import com.google.android.gms.vision.barcode.Barcode;
 import com.google.android.gms.vision.barcode.BarcodeDetector;
-import android.support.v7.app.AppCompatActivity;
+//import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.util.SparseArray;
@@ -38,7 +38,7 @@ public class BarcodeScan extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_barcode_scan);
-        Button btn = (Button) findViewById(R.id.button);
+        Button btn =  findViewById(R.id.button);
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
